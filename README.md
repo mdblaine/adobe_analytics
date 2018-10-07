@@ -40,3 +40,5 @@ abandoned there. Thanks to everyone who put work into this project!
 Special thanks go to
 - [debrouwere](https://github.com/debrouwere) for initiating the framework
 - [dancingcactus](https://github.com/dancingcactus) for major improvements when taking it over from debrouwere
+
+*Notice:* As I currently don't have access to an Adobe Analytics account. As Adobe doesn't provide sandbox environments I can't fix some of the known bugs. Everybody is very welcome to fix them by submitting a pull request though!  
