@@ -9,6 +9,7 @@ htmlcov
 aa_credentials.json
 pip_distribution_instructions.md
 .idea
+adobe_analytics.iml
 try_classification.py
 try_report.py
 

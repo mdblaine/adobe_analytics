@@ -17,7 +17,7 @@ Through PyPI:
 
 or via git:
 
-    pip install git+http://github.com/SaturnFromTitan/adobe_analytics.git
+    pip install git+http://github.com/mdblaine/adobe_analytics.git
 
 Supports Python 3.5+
 
@@ -34,11 +34,12 @@ py.test -v
 Note that tests are automatically executed on every push via [travis-ci.org](travis-ci.org).
 
 ## Contributors
-I took over [this branch](https://github.com/dancingcactus/python-omniture) as the project seems to be
+I took over [this branch](https://github.com/SaturnFromTitan/adobe_analytics) as the project seems to be
 abandoned there. Thanks to everyone who put work into this project!
 
 Special thanks go to
 - [debrouwere](https://github.com/debrouwere) for initiating the framework
 - [dancingcactus](https://github.com/dancingcactus) for major improvements when taking it over from debrouwere
+- [SaturnFromTitan](https://github.com/SaturnFromTitan/adobe_analytics) for major overhaul and redesign when taking it over from dancingcactus
 
 *Notice:* As I currently don't have access to an Adobe Analytics account. As Adobe doesn't provide sandbox environments I can't fix some of the known bugs. Everybody is very welcome to fix them by submitting a pull request though!  
